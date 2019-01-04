@@ -1,6 +1,6 @@
 # CsharpRedisClientExample
 
-This code presents basic example how to connect redis with C# redis client.
+This code presents basic examples how to connect redis with C# redis client.
 
 Prerequisite : Redis must be installed on your computer.
 
