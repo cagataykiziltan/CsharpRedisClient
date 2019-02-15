@@ -6,6 +6,6 @@ Prerequisite : Redis must be installed on your computer.
 
 
 
-** Command lines can be removed for each test example before build.
+** Command lines can be removed for each example test before build.
 
-** 'monitor' command can be written redis console to be able to see redis console command equivalent of C# functions.
+** 'monitor' command can be written to redis console to be able to see redis console command equivalent of C# functions.
